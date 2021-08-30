@@ -462,7 +462,7 @@ ul li a {
         padding-left: 6.5rem;
     }
     #skills {
-        margin: 154% 0 0 0;
+        margin: 108em 0 0 0;
     }
     .timeline-section {
         margin-top: 78rem;
@@ -489,6 +489,9 @@ ul li a {
     }
     #hire {
         font-size: 16px;
+    }
+    #skills {
+        margin: 67% 0 0 0;
     }
   } 
   @media only screen 
@@ -534,6 +537,10 @@ ul li a {
     }
     #bio p {
         padding: 4em 0 0 12em;
+    }
+    #skills {
+     
+        margin: 49em 0 0 0;
     }
   } 
   @media only screen and (max-width: 280px) {
